@@ -1,10 +1,10 @@
 # Sentiment-Analysis-Classification-of-Restaurant-Reviews-into-Positive-or-Negative-reviews-
 Classification of Restaurant Reviews into Positive or Negative reviews.                                                                                                             
 Dataset : This Dataset contain 1000 reviews given by customer to the Restaurant.It is in the form of .tsv(tab seprated values) format.
-Libraries used : sklearn,keras,nltk,re                                                                                                    
+Libraries used : numpy,pandas,sklearn,keras,nltk,re                                                                                                    
 Steps:                                                                                                                                                                         1)Importing Libraries and Dataset                                                               
 2)Clearing text                                                                                                                                       
-    a)replacing punctuation with spaces b)making lower case c)splitting sentences into words d)stemming e)Removing Stopwords f)Joining
+    a)replacing punctuation with spaces b)making lower case c)splitting sentences into words d)stemming e)Removing Stopwords f)Joining                                                                                       
 3)Creating Bag of words                                                                                                                     
 4)splitting Dataset into training and Testing set                                                                                            
 5)Modeling                                                                                                                                   
